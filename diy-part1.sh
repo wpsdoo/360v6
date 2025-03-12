@@ -23,3 +23,6 @@ echo 'src-git OpenClash https://github.com/vernesong/OpenClash.git' >>feeds.conf
 
 #add parentcontrol
 echo 'src-git parentcontrol https://github.com/sirpdboy/luci-app-parentcontrol.git' >>feeds.conf.default
+
+#add kucat
+echo 'src-git kucat https://github.com/sirpdboy/luci-theme-kucat.git' >>feeds.conf.default
