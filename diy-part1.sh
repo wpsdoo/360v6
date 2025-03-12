@@ -19,4 +19,4 @@
 
 
 add openclash
-echo 'src-git mihomo-party https://github.com/mihomo-party-org/mihomo-party.git' >>feeds.conf.default
+echo 'src-git OpenClash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
