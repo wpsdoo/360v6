@@ -18,25 +18,25 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
 #add openclash
-echo 'src-git OpenClash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
+#echo 'src-git OpenClash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
 
 #add parentcontrol
-echo 'src-git parentcontrol https://github.com/sirpdboy/luci-app-parentcontrol.git' >>feeds.conf.default
+#echo 'src-git parentcontrol https://github.com/sirpdboy/luci-app-parentcontrol.git' >>feeds.conf.default
 
 #add kucat
-echo 'src-git kucat https://github.com/sirpdboy/luci-theme-kucat.git' >>feeds.conf.default
+#echo 'src-git kucat https://github.com/sirpdboy/luci-theme-kucat.git' >>feeds.conf.default
 
 #add OpenAppFilter
-echo 'src-git OpenAppFilter https://github.com/destan19/OpenAppFilter.git' >>feeds.conf.default
+#echo 'src-git OpenAppFilter https://github.com/destan19/OpenAppFilter.git' >>feeds.conf.default
 
 #add design
-echo 'src-git design https://github.com/0x676e67/luci-theme-design.git' >>feeds.conf.default
+#echo 'src-git design https://github.com/0x676e67/luci-theme-design.git' >>feeds.conf.default
 
 #add alpha
-echo 'src-git alpha https://github.com/derisamedia/luci-theme-alpha.git' >>feeds.conf.default
+#echo 'src-git alpha https://github.com/derisamedia/luci-theme-alpha.git' >>feeds.conf.default
 
 #add netwizard
-echo 'src-git netwizard https://github.com/sirpdboy/luci-app-netwizard.git' >>feeds.conf.default
+#echo 'src-git netwizard https://github.com/sirpdboy/luci-app-netwizard.git' >>feeds.conf.default
 
 
 
