@@ -30,8 +30,11 @@ echo 'src-git kucat https://github.com/sirpdboy/luci-theme-kucat.git' >>feeds.co
 #add OpenAppFilter
 echo 'src-git OpenAppFilter https://github.com/destan19/OpenAppFilter.git' >>feeds.conf.default
 
-
 #add design
 echo 'src-git design https://github.com/0x676e67/luci-theme-design.git' >>feeds.conf.default
+
+#add alpha
+echo 'src-git alpha https://github.com/derisamedia/luci-theme-alpha.git' >>feeds.conf.default
+
 
 
