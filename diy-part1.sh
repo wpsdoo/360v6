@@ -26,3 +26,7 @@ echo 'src-git parentcontrol https://github.com/sirpdboy/luci-app-parentcontrol.g
 
 #add kucat
 echo 'src-git kucat https://github.com/sirpdboy/luci-theme-kucat.git' >>feeds.conf.default
+
+#add kucat
+echo 'src-git OpenAppFilter https://github.com/destan19/OpenAppFilter.git' >>feeds.conf.default
+
