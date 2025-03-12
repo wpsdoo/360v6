@@ -36,5 +36,9 @@ echo 'src-git design https://github.com/0x676e67/luci-theme-design.git' >>feeds.
 #add alpha
 echo 'src-git alpha https://github.com/derisamedia/luci-theme-alpha.git' >>feeds.conf.default
 
+#add netwizard
+echo 'src-git netwizard https://github.com/sirpdboy/luci-app-netwizard.git' >>feeds.conf.default
+
+
 
 
