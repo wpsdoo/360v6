@@ -18,5 +18,8 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
 
-add openclash
+#add openclash
 echo 'src-git OpenClash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
+
+#add parentcontrol
+echo 'src-git parentcontrol https://github.com/sirpdboy/luci-app-parentcontrol.git' >>feeds.conf.default
